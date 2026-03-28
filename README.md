@@ -48,7 +48,7 @@ An interactive dashboard was built using Excel with:
   - Visuals to track revenue contribution and campaign performance
  
 ## Dashboard
-<a href="">Dashboard</a>
+<a href="https://github.com/komal-3003/Customer-Segmentation-Marketing-Performance-Dashboard-Excel-/blob/main/Screenshot%202026-03-28%20212507.png">Dashboard</a>
 ## Project Insights
 - High-income customers contribute a major share of total revenue
 - Marketing campaigns show varying conversion rates across segments
