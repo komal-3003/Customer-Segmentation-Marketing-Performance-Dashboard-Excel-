@@ -6,7 +6,7 @@ The objective of this project is to analyze customer behavior and marketing camp
 - This project features an interactive Excel dashboard designed to track customer metrics and evaluate marketing performance.
 - Using Pivot Tables, Pivot Charts, KPI cards, and slicers, the dashboard provides insights into customer segmentation, spending behavior, and campaign conversion rates. It enables users to dynamically explore how different customer groups contribute to revenue and respond to marketing campaigns.
 ## Dataset Used
-<a href="">Dataset</a>
+<a href="https://github.com/komal-3003/Customer-Segmentation-Marketing-Performance-Dashboard-Excel-/blob/main/marketing_campaign.xlsx">Dataset</a>
 ## Key Performance Indicators (KPIs)
 - Total Customers
 - Total Revenue
